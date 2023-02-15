@@ -22,3 +22,41 @@ BETWEEN	Between a certain range
 LIKE	Search for a pattern	
 IN	To specify multiple possible values for a column
 
+--CREAR TABLA
+CREATE TABLE DatosFiscales (
+    Rfc VARCHAR(13) NOT NULL,
+    Nombre VARCHAR(100) NOT NULL,
+    RegimenFiscal VARCHAR(100) NOT NULL,
+    DomicilioFiscal VARCHAR(200) NOT NULL,
+    CONSTRAINT PK_DatosFiscales PRIMARY KEY (Rfc)
+);
+
+--INSERTAR DATOS EN TABLA
+INSERT INTO DatosFiscales (Rfc, Nombre, RegimenFiscal, DomicilioFiscal)
+VALUES ('ABC123456789', 'Empresa ABC', 'Régimen Fiscal ABC', 'Av. Principal #123, Col. Centro, Ciudad ABC');
+
+--Consulta los datos
+SELECT * FROM DatosFiscales;
+
+--Actualizar datos
+UPDATE DatosFiscales 
+SET DomicilioFiscal = 'Nuevo domicilio fiscal' 
+WHERE Rfc = 'ABC123456789';
+
+--Actualizar varios datos al mismo tiempo
+UPDATE DatosFiscales 
+SET Nombre = 'Nuevo nombre', DomicilioFiscal = 'Nuevo domicilio fiscal' 
+WHERE Rfc = 'ABC123456789';
+
+--Borrar datos cuando el nombre es
+DELETE FROM DatosFiscales 
+WHERE Nombre = 'Nombre a borrar';
+
+--Insertar una nueva columna con ID autoincremental
+ALTER TABLE DatosFiscales ADD ID INT IDENTITY(1,1) PRIMARY KEY;
+
+--Consultar cuando contenga ciertos caracteres
+SELECT Rfc
+FROM DatosFiscales
+WHERE Rfc LIKE '%multiplescaracteres%';
+
