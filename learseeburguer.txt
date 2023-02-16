@@ -1,0 +1,79 @@
+Capacitacion con gasto Melo y andrey Melo 16/02/23
+
+A grande rasgos.
+
+EDI 
+INTERCAMBIO ELECTRONICO DE DATOS
+    CSV
+    TXT
+    SAP
+
+SAP ES MUY EXTENSO 
+    PRODUCCION
+    CONTIENE MUCHOS MODULOS
+    4HANNA
+    BO BUSSISNES ONE 
+    
+    EN SITIO 
+    NUBE
+
+
+    CLIENTE REAL
+    
+    Lala
+        Walmart
+
+    Walmart
+        michelin
+        voit 
+        morena 
+    
+    ASN 
+        Aviso de embarque.
+            cuanto 
+            como 
+            quien
+
+    ESTANDAR EDI 
+        ansi x12
+            850 oc 
+            856 asn 
+        ediFact 
+
+        gateway 
+            traductor
+    
+Tiers  
+    1
+        volante
+        llantas
+        retrovisores
+    2   
+        cuero
+        hilo 
+        plastico 
+    3
+
+
+DELJIT
+    CHARBACKS
+
+Deliver forcast 
+delfort en edi 
+    deljit -862
+        mas precisas para logistica interna 
+    factura -810
+    25000 por hora 
+
+
+    protocolos 
+    as2 
+    oft 
+
+    general motors 
+    general electrics 
+
+
+Iniciar con facturacion
+ANEXO 20.
+Soporte
