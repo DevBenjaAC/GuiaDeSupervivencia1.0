@@ -56,7 +56,7 @@ Tiers
 
 
 DELJIT
-    CHARBACKS
+    CHARBACKS- multas
 
 Deliver forcast 
 delfort en edi 

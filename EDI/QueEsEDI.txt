@@ -1,0 +1,10 @@
+EDI (Electronic Data Interchange) es una tecnología que permite la transmisión de información 
+estructurada entre diferentes sistemas informáticos sin la necesidad de intervención humana.
+ Se utiliza principalmente para la transmisión de documentos comerciales, como órdenes de compra,
+  facturas y avisos de envío, entre empresas y organizaciones. El objetivo de EDI es simplificar y
+   automatizar los procesos de negocio, reducir errores y tiempos de procesamiento, y 
+   mejorar la eficiencia y la colaboración entre las empresas. EDI se ha utilizado desde la 
+   década de 1970 y ha evolucionado a lo largo del tiempo para adaptarse a las necesidades de las
+    empresas modernas.
+
+
