@@ -1,7 +1,9 @@
 # BTOB [MANUAL DE SUPERVIVENCIA🔥](https://btob.com.mx/ "Click here to visit Btob Website")
+## Enlaces rapidos:
 ### Anexo 20 [Usalo como apoyo para el llenado de CFDI](http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/GuiaAnexo311221.pdf "Click here to visit anexo 20 wbsite in PDF")
 
 ### Validador web de XML [Usalo como apoyo para validar las facturas XML](https://developers.sw.com.mx/knowledge-base/validar-cfdi/ "Click here to visit validador de XML document")
+# Aqui tienes algunos Ejemplos de lo que hay en cada directorio:
 ## SEEBURGUER
 Seeburger AG es un proveedor de soluciones de integración empresarial que ofrece una plataforma de integración para conectar sistemas y aplicaciones de diferentes empresas.
 
@@ -16,6 +18,9 @@ automatizar los procesos de negocio, reducir errores y tiempos de procesamiento,
 mejorar la eficiencia y la colaboración entre las empresas. EDI se ha utilizado desde la 
 década de 1970 y ha evolucionado a lo largo del tiempo para adaptarse a las necesidades de las
 empresas modernas.
+
+# Mapping en XML
+El mapeo en facturación XML se refiere al proceso de traducción de datos entre dos formatos diferentes: XML y otro formato, como EDI (Intercambio Electrónico de Datos). Este proceso implica asignar campos de datos específicos en el formato de origen (en este caso, XML) a campos de datos específicos en el formato de destino (en este caso, EDI).
 # Benjamin Alvarado ~ DevBenjaAC🔥😎
 
 ### Developer Web
