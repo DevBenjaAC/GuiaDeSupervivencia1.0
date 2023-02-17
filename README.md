@@ -1,4 +1,9 @@
-# Benjamin Alvarado😎
+# BTOB FACT [MANUAL DE SUPERVIVENCIA🔥](https://btob.com.mx/ "Click here to visit Btob Website")
+### Anexo 20 [Usalo como apoyo para el llenado de CFDI](http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/GuiaAnexo311221.pdf "Click here to visit anexo 20 wbsite in PDF")
+
+### Validador web de XML [Usalo como apoyo para validar las facturas XML](https://developers.sw.com.mx/knowledge-base/validar-cfdi/ "Click here to visit validador de XML document")
+
+# Benjamin Alvarado ~ DevBenjaAC🔥😎
 
 ### Developer Web
 ### Un apasionado por el continuo desarrollo tecnológico, me gusta apoyar a los demás siempre que este a mi alcance, proactivo, organizado y responsable
@@ -15,8 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Photoshop](http://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
 
-# BTOB FACT [MANUAL DE SUPERVIVENCIA🔥](https://btob.com.mx/ "Click here to visit Btob Website")
-### Anexo 20 [Usalo como apoyo para el llenado de CFDI](http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/GuiaAnexo311221.pdf "Click here to visit anexo 20 wbsite in PDF")
+
 ## CREADO POR: [DevBenjaAC🔥](https://github.com/DevBenjaAC "Click here to visit devbenja profile")
 
 <a href="https://www.linkedin.com/in/soybenjamin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soybenjamin/" height="60" width="70" /> Conecta Conmigo, Edgar Benjamin Alvarado Cisneros
