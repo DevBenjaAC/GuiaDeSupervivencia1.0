@@ -15,9 +15,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Photoshop](http://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
 
-# BTOB FACT [Heading link](https://btob.com.mx/ "Btob Website")
-### Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-## By Ben Alvarado
+# BTOB FACT [MANUAL DE SUPERVIVENCIA🔥](https://btob.com.mx/ "Click here to visit Btob Website")
+### Anexo 20 [Usalo como apoyo para el llenado de CFDI](http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/GuiaAnexo311221.pdf "Click here to visit anexo 20 wbsite in PDF")
+## CREADO POR: [DevBenjaAC🔥](https://github.com/DevBenjaAC "Click here to visit devbenja profile")
 
 <a href="https://www.linkedin.com/in/soybenjamin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soybenjamin/" height="60" width="70" /> Conecta Conmigo, Edgar Benjamin Alvarado Cisneros
 Full Stack Developer Jr</a>
