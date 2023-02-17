@@ -1,8 +1,21 @@
-# BTOB FACT [MANUAL DE SUPERVIVENCIA🔥](https://btob.com.mx/ "Click here to visit Btob Website")
+# BTOB [MANUAL DE SUPERVIVENCIA🔥](https://btob.com.mx/ "Click here to visit Btob Website")
 ### Anexo 20 [Usalo como apoyo para el llenado de CFDI](http://omawww.sat.gob.mx/tramitesyservicios/Paginas/documentos/GuiaAnexo311221.pdf "Click here to visit anexo 20 wbsite in PDF")
 
 ### Validador web de XML [Usalo como apoyo para validar las facturas XML](https://developers.sw.com.mx/knowledge-base/validar-cfdi/ "Click here to visit validador de XML document")
+## SEEBURGUER
+Seeburger AG es un proveedor de soluciones de integración empresarial que ofrece una plataforma de integración para conectar sistemas y aplicaciones de diferentes empresas.
 
+La solución de integración de Seeburger puede ayudar a las empresas a automatizar los flujos de trabajo de negocio, compartir información y datos entre diferentes sistemas, y facilitar la colaboración y la toma de decisiones. La plataforma también puede ayudar a las empresas a cumplir con los requisitos de intercambio electrónico de datos (EDI) y los estándares de intercambio de información comercial.
+
+## EDI 
+EDI (Electronic Data Interchange) es una tecnología que permite la transmisión de información 
+estructurada entre diferentes sistemas informáticos sin la necesidad de intervención humana.
+Se utiliza principalmente para la transmisión de documentos comerciales, como órdenes de compra,
+facturas y avisos de envío, entre empresas y organizaciones. El objetivo de EDI es simplificar y
+automatizar los procesos de negocio, reducir errores y tiempos de procesamiento, y 
+mejorar la eficiencia y la colaboración entre las empresas. EDI se ha utilizado desde la 
+década de 1970 y ha evolucionado a lo largo del tiempo para adaptarse a las necesidades de las
+empresas modernas.
 # Benjamin Alvarado ~ DevBenjaAC🔥😎
 
 ### Developer Web
