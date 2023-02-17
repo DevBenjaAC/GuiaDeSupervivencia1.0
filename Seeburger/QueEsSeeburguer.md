@@ -1,11 +1,11 @@
-# Capacitacion con gasto Melo y andrey Melo 16/02/23
+# Capacitacion con Gaston Melo y Andrey Melo 16/02/23
 
 ## SEEBURGUER
 Seeburger AG es un proveedor de soluciones de integración empresarial que ofrece una plataforma de integración para conectar sistemas y aplicaciones de diferentes empresas.
 
 La solución de integración de Seeburger puede ayudar a las empresas a automatizar los flujos de trabajo de negocio, compartir información y datos entre diferentes sistemas, y facilitar la colaboración y la toma de decisiones. La plataforma también puede ayudar a las empresas a cumplir con los requisitos de intercambio electrónico de datos (EDI) y los estándares de intercambio de información comercial.
 
-     Sus soluciones de integración incluyen EDI, B2B, MFT, API y otras tecnologías que permiten la integración de sistemas en diferentes entornos de negocios. La empresa ha estado en el mercado por más de 30 años y tiene una amplia base de clientes en todo el mundo
+Sus soluciones de integración incluyen EDI, B2B, MFT, API y otras tecnologías que permiten la integración de sistemas en diferentes entornos de negocios. La empresa ha estado en el mercado por más de 30 años y tiene una amplia base de clientes en todo el mundo
 
 ## Como conectarse a Seeburguer Cloud
 Para conectarse a la nube de SeeBurger, se debe seguir los siguientes pasos:
