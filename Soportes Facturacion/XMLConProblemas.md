@@ -1,7 +1,7 @@
 # Soporte De XML con errores
 Este soporte Es super comun para soportes de facturacion.
 
-## Como se resuelve
+## Como se resuelve:
 
 ### Paso 1
 Establecemos una conexion con el cliente que requiere soporte
