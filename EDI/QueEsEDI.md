@@ -40,6 +40,76 @@ Finalmente, los datos recibidos a través de EDI se deben integrar en los sistem
 como los sistemas de gestión de inventario o contabilidad, para que puedan ser utilizados de manera efectiva
 en la empresa.
 
+## swift 
+Transacciones bancarias
+## VDA
+VDA significa "Verband der Automobilindustrie", que en español se traduce como "Asociación de la Industria Automotriz". Se trata de una organización alemana que representa los intereses de la industria automotriz y promueve el desarrollo y la implementación de estándares comunes en la cadena de suministro de la industria. El estándar VDA se utiliza en particular para el intercambio electrónico de datos entre proveedores y fabricantes de la industria automotriz.
+## 810/INVOC
+La factura 810 es un tipo de factura electrónica utilizada en la facturación empresarial para el intercambio de información de compras y ventas entre empresas. También se le conoce como Factura de Acreedor o Factura de Proveedor. Esta factura es utilizada para registrar las compras de bienes y servicios realizadas por una empresa a sus proveedores y es la respuesta a la factura 807, la cual es emitida por la empresa proveedora y representa la venta del bien o servicio.
+
+810 - Factura
+850 - Orden de compra
+855 - Aviso de orden de compra
+856 - Aviso de envío
+820 - Pago/orden de remesa
+846 - Aviso de inventario
+997 - Confirmación de recibido
+999 - Confirmación de aceptación/rechazo
+
+ORDERS           Purchase order message
+
+ORDRSP           Purchase Order Acknowledgment
+
+INVRPT            Inventory Inquiry/Advice
+
+DESADV           Shipment Notification ASN
+
+INVOIC            Invoice
+
+CONTRL           Functional acknowledgment
+
+ORDCHG         Purchase Order Change – Buyer Initiated
+
+
+purchase order (850/ORDERS)
+facturacion	810/INVOC  
+856/aviso de embarque
+820/REMADV
+997/Aviso de entrega
+830/Aviso de aproximado
+204/de donde a donde
+210/Notificaciones de estatus
+824/notificaciones de errores
+
+canales de comunicacion
+sftp
+ftp/vpn
+as2
+
+
+Diferentes industrias
+
+van 
+Pequeñas redes con conexiones establcidas
+Negocios antiguos
+costo de transmicion por kilocaracter
+el codigo identificador del producto suele ser el de el cliente al que se le esta vendiendo.
+
+bic mapping designer
+copiar la informacion a las variables
+para mapear a los 
+
+
+inhouse
+documento con cierta estructura no estandarizada
+
+xml conexion a una db
+
+segmento *
+elemento virgulilla 
+subelemento @
+
+
 
 
 
