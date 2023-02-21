@@ -47,6 +47,8 @@ VDA significa "Verband der Automobilindustrie", que en español se traduce como 
 ## 810/INVOC
 La factura 810 es un tipo de factura electrónica utilizada en la facturación empresarial para el intercambio de información de compras y ventas entre empresas. También se le conoce como Factura de Acreedor o Factura de Proveedor. Esta factura es utilizada para registrar las compras de bienes y servicios realizadas por una empresa a sus proveedores y es la respuesta a la factura 807, la cual es emitida por la empresa proveedora y representa la venta del bien o servicio.
 
+
+## TIPOS DE TRANSACCIONES
 810 - Factura
 850 - Orden de compra
 855 - Aviso de orden de compra
@@ -81,15 +83,13 @@ facturacion	810/INVOC
 210/Notificaciones de estatus
 824/notificaciones de errores
 
-canales de comunicacion
+## canales de comunicacion
 sftp
 ftp/vpn
 as2
 
 
-Diferentes industrias
-
-van 
+## Definicion de van 
 Pequeñas redes con conexiones establcidas
 Negocios antiguos
 costo de transmicion por kilocaracter
@@ -105,6 +105,7 @@ documento con cierta estructura no estandarizada
 
 xml conexion a una db
 
+### Sintaxis de BIS
 segmento *
 elemento virgulilla 
 subelemento @
