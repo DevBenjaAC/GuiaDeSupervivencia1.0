@@ -99,10 +99,8 @@ bic mapping designer
 copiar la informacion a las variables
 para mapear a los 
 
-
 inhouse
 documento con cierta estructura no estandarizada
-
 xml conexion a una db
 
 ### Sintaxis de BIS
@@ -110,8 +108,19 @@ segmento *
 elemento virgulilla 
 subelemento @
 
+Los secciones se separan por virgulillas para indicar el fin de una seccion
+los elementos se separan por astericos para indicar el fin de un elemento
 
 
+## Sintaxis
+N1 * BT * ABC Inc. * 9 * 1234567 ~
+
+Segment: ID N1
+Data element terminator: *
+Data element qualifier: BT & 9
+Company Name: ABC Inc
+Company ID: 1234567
+Segment Terminator: ~
 
 
 
