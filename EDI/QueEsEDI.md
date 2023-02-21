@@ -83,6 +83,8 @@ facturacion	810/INVOC
 210/Notificaciones de estatus
 824/notificaciones de errores
 
+st numero de transaccion
+
 ## canales de comunicacion
 sftp
 ftp/vpn
@@ -123,5 +125,7 @@ Company ID: 1234567
 Segment Terminator: ~
 
 
+edi adress 
 
 
+Control F para remplazar.
