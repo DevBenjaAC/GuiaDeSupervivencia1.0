@@ -90,7 +90,6 @@ sftp
 ftp/vpn
 as2
 
-
 ## Definicion de van 
 Pequeñas redes con conexiones establcidas
 Negocios antiguos
@@ -125,7 +124,6 @@ Company ID: 1234567
 Segment Terminator: ~
 
 
-edi adress 
-
+edi address 
 
 Control F para remplazar.

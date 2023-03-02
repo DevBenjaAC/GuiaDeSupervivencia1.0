@@ -1,3 +1,4 @@
 Notes to Chat GPT
 
 997 confirmacion de recibido
+hazme el codigo de un encabezado con css que diga hola amigos

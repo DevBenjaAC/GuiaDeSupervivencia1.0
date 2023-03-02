@@ -43,3 +43,4 @@ Ofrezca una solución justa: asegúrese de que la solución que ofrece es justa 
 Asegúrese de seguir con el problema: haga un seguimiento con el cliente para asegurarse de que el problema se ha resuelto satisfactoriamente.
 
 Es importante mantener la calma y ser respetuoso en todo momento, incluso si el cliente sigue molesto. Con una actitud positiva y respetuosa, puede ayudar al cliente a sentirse escuchado y a encontrar una solución satisfactoria.
+
