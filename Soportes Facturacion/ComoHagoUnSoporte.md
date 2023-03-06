@@ -3,9 +3,41 @@ Existen diferentes tipos de soportes a realizar por el tipo de cliente.
 
 ## Aqui tienes los nombres de soportes mas comunes a relizar:
 
+## SOPORTES Y DETALLES DE ERROR EN STRUCTURE VALIDATION REPROCESO
+Contacto: IM
+IDENTIFICAR EL ERROR
+control f con movto para encontrar el error en el debug
+##### Se reprocesa.
+1 entrar a la nube
+2 buscar en base de datos en preCFD
+3 Actualizar preStatus set input = 1 where movto= ´movto a cambiar´;
+comprobar en preStatus para ver si la toma
+4 Buscar en base de datos en tabla CFD where movto='movto a comprobar haya sido timbrado'
+5 Notificar al contacto que esta hecho exitosamente.
+
+## SOPORTES Y DETALLES -Actualizar USO DE CFDI g01 a G03
+Contacto: RU
+
+Paramos el generador CMD
+este se cambia con control C para deterlo, nos pedira confirmar Y
+
+El contacto nos dara el folio de la movto a cambiar el useCFDI
+
+Cambiamos manualmente
+useCFDI:
+de G01 a G03 o cambiamos con query
+
+activamos el generador localizado en el entorno de trabajo del contacto
+
+comprobamos que timbre
+notofocamos al contacto que ya se timbro
+
+Query para actualizar:
+update useCFDI set ="S01" where movto= "movto a cambiar"
+
 ### Soporte de comprobacion
 Este soporte es sencillo y simplemente es corroborar y comprobar que una factura este o no este timbrada.
-* La forma mas rapida es verificar que en el comienzo del nombre del archivo comience con la palabra "PRE".
+La forma mas rapida es verificar que en el comienzo del nombre del archivo comience con la palabra "PRE".
 ### Soporte de errores en XML [Click- Para ir a las instrucciones del soporte](https://github.com/DevBenjaAC/GuiaDeSupervivencia1.0/blob/main/Soportes%20Facturacion/XMLConProblemas.md)
 Uno de los soportes mas comunes    
 ### Soporte de errores de lado del cliente.

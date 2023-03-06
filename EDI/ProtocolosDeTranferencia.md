@@ -46,11 +46,11 @@ Pruebas y verificación: Es importante realizar pruebas y verificaciones para as
 En general, la configuración de AS2 implica la instalación y configuración del software, la creación de certificados digitales, la configuración de perfiles y acuerdos comerciales, y la configuración del sistema de procesamiento para procesar y validar los datos recibidos.
 
 
-# FTP (File Transfer Protocol): 
+## FTP (File Transfer Protocol): 
 es un protocolo utilizado para transferir archivos entre computadoras a través de una red. Aunque es un protocolo comúnmente utilizado para transferir archivos en general, también se utiliza para enviar archivos EDI.
 
-# SFTP (Secure File Transfer Protocol): 
+## SFTP (Secure File Transfer Protocol): 
 es un protocolo de transferencia de archivos que utiliza SSH (Secure Shell) para proporcionar seguridad y autenticación en la transferencia de archivos. Es similar a FTP, pero utiliza cifrado para garantizar la seguridad de los mensajes enviados.
 
-# HTTP (Hypertext Transfer Protocol): 
+## HTTP (Hypertext Transfer Protocol): 
 es el protocolo utilizado para transferir información en la web. También se puede utilizar para enviar mensajes EDI, aunque es menos común que los protocolos anteriores. Es importante tener en cuenta que HTTP no proporciona cifrado ni autenticación en sí mismo, por lo que se deben utilizar medidas adicionales para garantizar la seguridad de los mensajes enviados.
