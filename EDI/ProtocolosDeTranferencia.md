@@ -9,7 +9,7 @@ AS2 utiliza el protocolo de transferencia de hipertexto (HTTP) y el protocolo de
 
 AS2 es utilizado por muchas empresas en todo el mundo para automatizar y estandarizar sus procesos de intercambio de datos comerciales, lo que ayuda a reducir los errores y los costos asociados con el procesamiento manual de los datos. Además, AS2 cumple con las regulaciones de seguridad y privacidad, lo que lo convierte en una opción segura para el intercambio de datos comerciales confidenciales.
 
-# Como funciona
+## AS2 Como funciona
 El protocolo AS2 funciona mediante el intercambio de mensajes EDI (Electronic Data Interchange) entre dos socios comerciales. El proceso de intercambio de datos en AS2 es el siguiente:
 
 Autenticación: Los socios comerciales se autentican mutuamente utilizando certificados digitales. Esto garantiza que los mensajes se envíen y reciban solo entre las partes autorizadas.
@@ -28,7 +28,7 @@ Procesamiento: Una vez validados, los datos se procesan y se integran en los sis
 
 En resumen, AS2 permite el intercambio seguro y confiable de datos comerciales entre dos socios comerciales utilizando encriptación, autenticación y compresión para garantizar la integridad y la confidencialidad de los datos en tránsito.
 
-# Configuracion
+## AS2 Configuracion
 La configuración del protocolo AS2 puede variar según el software o la plataforma utilizada para implementar el intercambio de datos. En general, los siguientes son los pasos para configurar AS2:
 
 Instalación del software AS2: Es necesario instalar el software AS2 en los sistemas del remitente y del receptor. Este software puede ser una solución de software de terceros o una solución integrada en el sistema existente.
