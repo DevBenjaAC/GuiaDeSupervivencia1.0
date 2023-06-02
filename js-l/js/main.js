@@ -1,38 +1,38 @@
-// // let cliente = prompt("Dime tu numero de cliente");
-// // alert("Hola " + cliente);
-// // let nombre = prompt("Dime tu nombre");
-// // alert("Hola " + nombre);
-// // let number = 0;
-// // number += cliente
-// // alert("Tu numero de cliente es: " + number);
+// let cliente = prompt("Dime tu numero de cliente");
+// alert("Hola " + cliente);
+// let nombre = prompt("Dime tu nombre");
+// alert("Hola " + nombre);
+// let number = 0;
+// number += cliente
+// alert("Tu numero de cliente es: " + number);
 
-// // let numero1 = 10;
-// // let numero2 = 5;
-// // alert("Tu numero es: " + (numero1 + numero2));
+// let numero1 = 10;
+// let numero2 = 5;
+// alert("Tu numero es: " + (numero1 + numero2));
 
-// // let saludo = " Hola pedro "
-// // let pregunta = "Como estas?"
-// // let frase = saludo + pregunta
-// // document.write(frase);
-// // // Metodo de cadena -- String para concat
-// // let frase1 = "soy " + nombre + " y estoy caminando";
-// // document.write(frase1);
-// // // Backticks
-// // let frase2 = `"Hola" + 'como estas' ${saludo}`
-// // alert(frase2);
-// // // Compare
-// // let frase3 = "23";
-// // let frase4 = 23;
-// // document.write(frase3 == frase4); // TRUE --> Es igual en valor
-// // document.write(frase4 === frase3);// FALSE --> Es diferente el tipo de dato
-// // Es mayor >
-// // Es Menor <
-// // Es Mayor o igual >=
-// // Es Menor o igual <=
-// // Es diferente !
+// let saludo = " Hola pedro "
+// let pregunta = "Como estas?"
+// let frase = saludo + pregunta
+// document.write(frase);
+// // Metodo de cadena -- String para concat
+// let frase1 = "soy " + nombre + " y estoy caminando";
+// document.write(frase1);
+// // Backticks
+// let frase2 = `"Hola" + 'como estas' ${saludo}`
+// alert(frase2);
+// // Compare
+// let frase3 = "23";
+// let frase4 = 23;
+// document.write(frase3 == frase4); // TRUE --> Es igual en valor
+// document.write(frase4 === frase3);// FALSE --> Es diferente el tipo de dato
+// Es mayor >
+// Es Menor <
+// Es Mayor o igual >=
+// Es Menor o igual <=
+// Es diferente !
 
-// /*OPERADORES LOGICOS*/
-// //AND todas deben ser Verdaderas para obtener TRUE
+/*OPERADORES LOGICOS*/
+//AND todas deben ser Verdaderas para obtener TRUE
 // let valor = 12;
 // let valor2 = 24;
 // let afirmacion1 = valor < valor2; // true
@@ -200,9 +200,35 @@
 // alert(textEndWith.endsWith("amigos")) //Output: -> false
 // alert(textEndWith.endsWith("amigos", 11)) //Output: -> true -> los primeros 11 caracteres terminan en "".
 
-// BACKTICKS
-let stringSinBacktics = "tengo la edad de: "
-let myAge = 27;
-let medida = "años";
-let stringConBacktics = `Yo benjamin ${stringSinBacktics} ${myAge} ${medida} y soy muy feliz`;
-alert(stringConBacktics);
+// //BACKTICKS
+// let stringSinBacktics = "tengo la edad de: "
+// let myAge = 27;
+// let medida = "años";
+// let stringConBacktics = `Yo benjamin ${stringSinBacktics} ${myAge} ${medida} y soy muy feliz`;
+// alert(stringConBacktics);
+
+//Numbers
+//Js solo tinee un tipo de numero.
+let x = 3.14;
+let y = 3;
+// Los numero estra grandes o extra pequeños se pueden escribir con notacion cientifica.
+let a = 123e5;
+let b = 123e-5;
+
+//La precision de los flotantes no es al 100%.
+// este es un ejemplo:
+let c = 0.2 + 0.1;
+// Para resolver lo anterior es mas preciso multiplicar y dividir-
+let d = (0.2 * 10 + 0.1 * 10) / 10;
+
+// CONCATENACION Y SUMA
+let e = 10;
+let f = 10;
+let g = "10";
+
+let suma = e + f; // El resultado sera una Suma
+let contatenado = e + g; //El resultado sera una concatenacion
+
+//La comparación de dos objetos de JavaScript siempre devuelve falso .
+
+// Para crear un numero BigInt mayor a 15 digitos.  se agrega n al final.
